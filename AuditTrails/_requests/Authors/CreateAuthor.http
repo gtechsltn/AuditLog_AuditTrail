@@ -1,0 +1,7 @@
+POST https://localhost:5000/api/authors
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "Name": "Jack Sparrow"
+}

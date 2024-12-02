@@ -1,0 +1,2 @@
+DELETE https://localhost:5000/api/books/43c371d0-0085-4376-bff5-fb8e64086f77
+Authorization: Bearer {{token}}

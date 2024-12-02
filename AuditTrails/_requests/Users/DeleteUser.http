@@ -1,0 +1,2 @@
+DELETE https://localhost:5000/api/users/b979d65c-cdd8-4ef0-a38a-9e7d501745ea
+Authorization: Bearer {{token}}

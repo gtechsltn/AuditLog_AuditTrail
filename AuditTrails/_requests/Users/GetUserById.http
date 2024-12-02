@@ -1,0 +1,2 @@
+GET https://localhost:5000/api/users/4f5996f3-a60c-42bd-88cc-5f6c14ec72d8
+Authorization: Bearer {{token}}

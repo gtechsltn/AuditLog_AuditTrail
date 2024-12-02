@@ -1,0 +1,8 @@
+PUT https://localhost:5000/api/authors/3f4ac0d0-f881-4bdb-9d8e-707baa074136
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "Id": "f33b52e0-60a0-480e-b200-dd26d1ad7b7d",
+    "Name": "Updated Name"
+}
